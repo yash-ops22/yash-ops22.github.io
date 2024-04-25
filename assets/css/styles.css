@@ -211,13 +211,14 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 220px;
+  width: 200px;
 }
 .home__blob {
   fill: var(--first-color);
 }
 .home__blob-img {
   width: 460px;
+  fill: var
 }
 
 /*BUTTONS*/
